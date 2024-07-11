@@ -21,8 +21,6 @@ El link para las sesiones sincrónicas esta <a href="https://pucp.zoom.us/j/9513
 - Meeting ID: 951 3762 4987
 
 ## Grabaciones
-El enlace para la lista de reproducción de YouTube con las grabaciones está <a href="https://www.youtube.com/playlist?list=PLqq4bX-XIg37gq6khKLjIhee2CumLEbDZ" target="_blank"> aquí </a>
-
 🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://www.youtube.com/playlist?list=PLqq4bX-XIg37gq6khKLjIhee2CumLEbDZ)
 
 
