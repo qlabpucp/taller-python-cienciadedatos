@@ -20,8 +20,15 @@ El link para las sesiones sincrónicas esta <a href="https://pucp.zoom.us/j/9513
 
 - Meeting ID: 951 3762 4987
 
-## Instructor
+## Instructores
 
-- **Nombre:** Esteban Cabrera
-- **Correo:** esteban.cabrera@pucp.edu.pe
-- **Perfil GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/estcab00)
+- **Nombres:** 
+Esteban Cabrera
+Michael Encalada
+
+- **Correo:** 
+esteban.cabrera@pucp.edu.pe
+michael.encalada@pucp.edu.pe
+- **Perfil GitHub:**
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/estcab00)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/MichaelEncalada)
