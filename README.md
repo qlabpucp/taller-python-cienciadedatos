@@ -16,7 +16,7 @@ Asimismo, se dará una breve introducción a **GitHub**. La enseñanza del conte
 
 📑 El Syllabus se encuentra disponible [aquí](https://docs.google.com/document/d/1j9PGyd5SO6EoB2o4-Ne0Wds4ty-rbe6p/edit?usp=sharing&ouid=100657601344850350475&rtpof=true&sd=true).
 
-## Estructura
+## 📚 Estructura
 - **📅 Sesiones:** Contiene las cuatro sesiones del taller, detalladas a continuación:
   - `01_Taller_Python`: Introducción a la programación en Python.
   - `02_Taller_Python`: Manejo de librerías Pandas y NumPy.
@@ -25,16 +25,16 @@ Asimismo, se dará una breve introducción a **GitHub**. La enseñanza del conte
 - **📊 Datasets:** Contiene las bases de datos a ser utilizadas durante el taller.
 
 
-## Sesiones
+## 📆 Clases
 🔗 **Link para las sesiones sincrónicas:** [¡Haz clic aquí para unirte!](https://pucp.zoom.us/j/95137624987) 
 
 - **Meeting ID:** 951 3762 4987
   
-## Grabaciones
+## 🎥 Grabaciones
 🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://www.youtube.com/playlist?list=PLqq4bX-XIg37gq6khKLjIhee2CumLEbDZ)
 
 
-## Instructores
+## 👨‍🏫 Instructores
 
 ### Esteban Cabrera
 - **Correo:** [esteban.cabrera@pucp.edu.pe](mailto:esteban.cabrera@pucp.edu.pe)
