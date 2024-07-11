@@ -5,21 +5,20 @@ Este taller introductorio está dirigido a estudiantes de la Universidad Naciona
 
 El Syllabus se encuentra <a href="https://docs.google.com/document/d/1j9PGyd5SO6EoB2o4-Ne0Wds4ty-rbe6p/edit?usp=sharing&ouid=100657601344850350475&rtpof=true&sd=true" target="_blank"> aquí </a>
 
-## Estructura
-
-- `Sesiones`: Contiene las cuatro sesiones del taller, las cuales a detalle son:
-  - `01_Taller_Python`: Introducción a la programación en Python
+## 📚 Estructura
+- **📅 Sesiones:** Contiene las cuatro sesiones del taller, detalladas a continuación:
+  - `01_Taller_Python`: Introducción a la programación en Python.
   - `02_Taller_Python`: Manejo de librerías Pandas y NumPy.
   - `03_Taller_Python`: Visualización de datos con Matplotlib.
   - `04_Taller_Python`: Introducción a la estadística con SciPy y temas adicionales.
-- `datasets`: Contiene las bases de datos a ser utilizadas durante el taller.
+- **📊 Datasets:** Contiene las bases de datos a ser utilizadas durante el taller.
+
 
 ## Sesiones
-El link para las sesiones sincrónicas esta <a href="https://pucp.zoom.us/j/95137624987
-" target="_blank"> aquí </a>
+🔗 **Link para las sesiones sincrónicas:** [¡Haz clic aquí para unirte!](https://pucp.zoom.us/j/95137624987) 
 
-- Meeting ID: 951 3762 4987
-
+- **Meeting ID:** 951 3762 4987
+  
 ## Grabaciones
 🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://www.youtube.com/playlist?list=PLqq4bX-XIg37gq6khKLjIhee2CumLEbDZ)
 
