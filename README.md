@@ -22,16 +22,11 @@ El link para las sesiones sincrónicas esta <a href="https://pucp.zoom.us/j/9513
 
 ## Instructores
 
-- **Nombres:** 
-Esteban Cabrera
+### Esteban Cabrera
+- **Correo:** [esteban.cabrera@pucp.edu.pe](mailto:esteban.cabrera@pucp.edu.pe)
+- **Perfil GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/estcab00)
 
-Michael Encalada
+### Michael Encalada
+- **Correo:** [michael.encalada@pucp.edu.pe](mailto:michael.encalada@pucp.edu.pe)
+- **Perfil GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/MichaelEncalada)
 
-- **Correo:** 
-esteban.cabrera@pucp.edu.pe
-
-michael.encalada@pucp.edu.pe
-- **Perfil GitHub:**
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/estcab00)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/MichaelEncalada)
